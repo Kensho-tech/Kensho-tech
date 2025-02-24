@@ -45,14 +45,18 @@
 
 ---
 
-## 🤖 Fun Fact
-
+ ## 🎮 LoL Fun Fact
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="250" alt="Robot Gaming">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZrMjVqNjhzYng4OHU5d3pxNmRwNXZhOTVweDFiNXkxbmJnbTU3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jfGimltjSZzNjp3qQE/giphy.gif" width="250" alt="Teemo Art">
   <br>
-  <p>🎮 Built a robot that can play retro games better than me!<br>
-  (Still trying to beat its high score...)</p>
+  <p>
+    <strong>Did you know?</strong><br>
+    If all the Teemo mushrooms ever placed in LoL were real,<br>
+    they'd cover the Earth's surface 420 times over! 🌍🍄<br>
+    <em>(Riot's official stat - and yes, we're all still stepping on them)</em>
+  </p>
 </div>
+
 
 ---
 
